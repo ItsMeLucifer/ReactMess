@@ -9,6 +9,7 @@ This project was created for learning purposes. The final version of the applica
 
 ##  **Features**
 I will present main feutures of this application below.
+![Example](./github/img/chatting.gif)
 ### *Authentication*
 An account is required to use this application. When you first launch ReactMess, you are prompted to enter your credentials to log in or register.
 ![Login Site](./github/img/login.png)
